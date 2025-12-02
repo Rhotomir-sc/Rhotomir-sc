@@ -8,6 +8,6 @@ I am actively building a strong technical foundation through:
 - 🧪 Continuous lab work on TryHackMe & Google Cybersecurity
 - 📡 Cisco Networking fundamentals
 - 📝 Structured learning documentation through my ZDLL learning log  
-- ⭐ Developing my flagship Blue Team project: **CyberAykan**
+- ⭐ Developing my flagship Blue Team project: **Rhotomir-sc**
 
 I am highly motivated to work in an international, innovation-driven environment and contribute as a future dual student at companies like **Siemens, Bosch, Telekom, or other tech-oriented German firms**.
