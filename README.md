@@ -1,41 +1,26 @@
-### Hi there, I'm Aykan! 👋
+## 👋 Hi, I’m Aykan
 
-I'm a **Cyber Security Student** at **Sakarya University of Applied Sciences**, documenting my journey from Day 0. My goal is to specialize in Linux Systems and secure coding with C++, aiming for a Dual Studium in Germany. 🇩🇪
+I am an aspiring Cyber Security & IT professional currently studying Information Security in Türkiye.  
+My long-term goal is to start a **Dual Study (Dual Studium) program in IT / Cyber Security in Germany in 2027**, combining academic depth with real industry experience.
 
----
+I am actively building a strong technical foundation through:
+- 🔐 Hands-on security practice (Blue Team, Linux, Network Security)
+- 🧪 Continuous lab work on TryHackMe & Google Cybersecurity
+- 📡 Cisco Networking fundamentals
+- 📝 Structured learning documentation through my ZDLL learning log  
+- ⭐ Developing my flagship Blue Team project: **CyberAykan**
 
-### 🚀 Currently Working On
-- 🛡️ Building my **[Zero Day Learning Log (ZDLL)](https://github.com/Rhotomir-sc/zdll)**
-- 🐧 Mastering **Kali Linux** & System Administration
-- 💻 Learning **C++** & Algorithms
+I am highly motivated to work in an international, innovation-driven environment and contribute as a future dual student at companies like **Siemens, Bosch, Telekom, or other tech-oriented German firms**.
+## 👋 Hi, I’m Yasemin
 
-### 🛠️ Tech Stack
-<div align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+I am an aspiring Cyber Security & IT professional currently studying Information Security in Türkiye.  
+My long-term goal is to start a **Dual Study (Dual Studium) program in IT / Cyber Security in Germany in 2027**, combining academic depth with real industry experience.
 
----
+I am actively building a strong technical foundation through:
+- 🔐 Hands-on security practice (Blue Team, Linux, Network Security)
+- 🧪 Continuous lab work on TryHackMe & Google Cybersecurity
+- 📡 Cisco Networking fundamentals
+- 📝 Structured learning documentation through my ZDLL learning log  
+- ⭐ Developing my flagship Blue Team project: **CyberAykan**
 
-### 📊 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhotomir-sc&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhotomir-sc&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<!--
-**Rhotomir-sc/Rhotomir-sc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am highly motivated to work in an international, innovation-driven environment and contribute as a future dual student at companies like **Siemens, Bosch, Telekom, or other tech-oriented German firms**.
