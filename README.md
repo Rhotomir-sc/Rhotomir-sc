@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Hi there, I'm Rhotomir! 👋
+### Hi there, I'm Aykan! 👋
 
 I'm a **Cyber Security Student** at **Sakarya University of Applied Sciences**, documenting my journey from Day 0. My goal is to specialize in Linux Systems and secure coding with C++, aiming for a Dual Studium in Germany. 🇩🇪
 
