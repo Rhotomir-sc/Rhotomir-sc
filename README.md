@@ -78,4 +78,4 @@ I am currently developing a foundation in:
 ## Contact
 
 - GitHub: [@Rhotomir-sc](https://github.com/Rhotomir-sc)
-- LinkedIn: `add your LinkedIn link here`
+- LinkedIn: `https://www.linkedin.com/in/aykan-%C3%BCnl%C3%BCt%C3%BCrk-423051385/`
