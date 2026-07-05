@@ -10,7 +10,7 @@ I use this GitHub profile to document what I learn, what I practice, and how I c
 
 ## Portfolio Structure
 
-My pinned repositories are organized as a learning path:
+My main repositories are organized as a learning path:
 
 | Question | Repository |
 |---|---|
