@@ -75,9 +75,7 @@ I am currently developing a foundation in:
 
 ---
 
----
-
 ## Contact
 
 - GitHub: [@Rhotomir-sc](https://github.com/Rhotomir-sc)
-- LinkedIn: [Aykan Ünlütürk](https://www.linkedin.com/in/aykan-%C3%BCnl%C3%BCt%C3%BCrk-423051385/)
+- LinkedIn: [linkedin.com/in/yasemin-unluturk](https://www.linkedin.com/in/yasemin-unluturk)
