@@ -35,7 +35,3 @@ My long-term direction is **Cloud & Identity Security**, supported by Linux, net
 Deepen cloud identity investigation, verify access-control changes in a lab, and improve the reliability of small analysis tools. These are development goals, not claims of production security experience.
 
 I distinguish observed evidence, synthetic scenarios, and assumptions. Where work is incomplete, its status is stated explicitly.
-
-## Contact
-- GitHub: [@Rhotomir-sc](https://github.com/Rhotomir-sc)
-- LinkedIn: [linkedin.com/in/yasemin-unluturk](https://www.linkedin.com/in/yasemin-unluturk)
