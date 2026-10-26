@@ -6,7 +6,7 @@ I build and document small, reproducible security investigations and tools. My f
 
 ## Selected work
 
-- **[Cloud identity investigation](https://github.com/Rhotomir-sc/tryhackme-portfolio-pack/tree/main/portfolio-labs/10-cloud-identity-basics)** — Microsoft Entra ID sign-in analysis in a training environment; failed and successful events, context, and evidence limits.
+- **[Cloud identity investigation](https://github.com/Rhotomir-sc/tryhackme-portfolio-pack/tree/main/portfolio-labs/10-cloud-identity-basics)** — Microsoft Entra ID / Splunk sign-in review with a [tested offline timeline validator](https://github.com/Rhotomir-sc/tryhackme-portfolio-pack/blob/main/portfolio-labs/10-cloud-identity-basics/timeline-review.md); original event-level validation remains pending.
 - **[Security capstone](https://github.com/Rhotomir-sc/security-capstone)** — fictional security assessment with reproducible authentication-log analysis and a documented remediation-verification plan.
 - **[Identity detection & automation](https://github.com/Rhotomir-sc/google-cybersecurity-portfolio-pack/blob/main/integrated-security-case/DETECTION-RULE.md)** — Python analysis of synthetic cloud sign-ins, tested failure-then-success correlation, and structured JSON findings; part of the [Google Cybersecurity portfolio](https://github.com/Rhotomir-sc/google-cybersecurity-portfolio-pack).
 - **[TryHackMe investigations](https://github.com/Rhotomir-sc/tryhackme-portfolio-pack)** — 12 documented hands-on labs across SOC triage, network analysis, incident response, identity, and access control.
