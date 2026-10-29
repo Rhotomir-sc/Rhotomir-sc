@@ -1,6 +1,6 @@
 # Aykan Efe Ünlütürk
 
-**Information Security Technology student | Cloud & Identity Security**
+**Information Security Technology student | Cloud & Identity Security · Automation**
 
 I build and document small, reproducible security investigations and tools. My focus is **cloud identity, defensive security operations, and automation**, informed by how attackers exploit misconfigurations and access paths.
 
@@ -15,7 +15,9 @@ I build and document small, reproducible security investigations and tools. My f
 
 - **Education:** Information Security Technology, Sakarya University of Applied Sciences (SUBÜ).
 - **Credential:** [Google Cybersecurity Professional Certificate](https://github.com/Rhotomir-sc/google-cybersecurity-portfolio-pack/tree/main/certificate).
-- **Developing next:** Microsoft Entra ID / IAM, cloud security engineering, detection and incident response, and controlled attacker-informed testing.
+- **Developing next:** Microsoft Entra ID / IAM, cloud security engineering, detection automation, AI security / safe LLM workflows, and controlled attacker-informed testing. AI security is a learning goal, not a claim of completed deployment.
+
+**[Evidence & reproducibility guide](PORTFOLIO-REVIEW.md)** — selected projects, what is verified, and what is still pending.
 
 **Additional work:** [Academic evidence](https://github.com/Rhotomir-sc/semester-evidence-packs) · [Learning log](https://github.com/Rhotomir-sc/zdll) · [Security mistake library](https://github.com/Rhotomir-sc/security-mistake-library)
 
